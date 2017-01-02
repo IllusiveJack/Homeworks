@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyInfo", "CompanyInfo\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{7850C8FB-8594-44D2-A4AD-9C34D7EF7906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatting Numbers", "Formatting Numbers\Formatting Numbers.csproj", "{CA15CECE-AD18-4473-BB7A-781881B195D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7850C8FB-8594-44D2-A4AD-9C34D7EF7906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7850C8FB-8594-44D2-A4AD-9C34D7EF7906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7850C8FB-8594-44D2-A4AD-9C34D7EF7906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
