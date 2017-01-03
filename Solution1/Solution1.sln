@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatting Numbers", "Formatting Numbers\Formatting Numbers.csproj", "{CA15CECE-AD18-4473-BB7A-781881B195D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparer", "NumberComparer\NumberComparer.csproj", "{CE4E74A9-35F4-4DD2-BC66-C49955865A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallingRocks", "FallingRocks\FallingRocks.csproj", "{76C6117F-6AAA-4433-9BC9-3443DF0F1307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA15CECE-AD18-4473-BB7A-781881B195D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4E74A9-35F4-4DD2-BC66-C49955865A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4E74A9-35F4-4DD2-BC66-C49955865A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4E74A9-35F4-4DD2-BC66-C49955865A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4E74A9-35F4-4DD2-BC66-C49955865A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C6117F-6AAA-4433-9BC9-3443DF0F1307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C6117F-6AAA-4433-9BC9-3443DF0F1307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C6117F-6AAA-4433-9BC9-3443DF0F1307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C6117F-6AAA-4433-9BC9-3443DF0F1307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
