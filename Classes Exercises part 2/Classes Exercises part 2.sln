@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Numbers", "Random Numbers\Random Numbers.csproj", "{4DE6F22B-146B-44C5-AD15-4A3C9F378755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of Week", "Day of Week\Day of Week.csproj", "{46734E66-FB0B-4111-8FD5-D24F6752CA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Formulas", "Triangle Surface by Side and Altitude\Triangle Formulas.csproj", "{D5901B28-5D48-45E5-9EC4-65038B32883D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE6F22B-146B-44C5-AD15-4A3C9F378755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE6F22B-146B-44C5-AD15-4A3C9F378755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE6F22B-146B-44C5-AD15-4A3C9F378755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE6F22B-146B-44C5-AD15-4A3C9F378755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46734E66-FB0B-4111-8FD5-D24F6752CA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46734E66-FB0B-4111-8FD5-D24F6752CA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46734E66-FB0B-4111-8FD5-D24F6752CA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46734E66-FB0B-4111-8FD5-D24F6752CA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5901B28-5D48-45E5-9EC4-65038B32883D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5901B28-5D48-45E5-9EC4-65038B32883D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5901B28-5D48-45E5-9EC4-65038B32883D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5901B28-5D48-45E5-9EC4-65038B32883D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
